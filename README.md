@@ -8,4 +8,4 @@ Logo version as SVG file format
 
 ## Banner
 
-<img src="https://github.com/ArtDecenter/design/blob/master/banner/ad-banner.png" width="220px">
+<img src="https://github.com/ArtDecenter/design/blob/master/banner/ad-banner.png" width="550px">
