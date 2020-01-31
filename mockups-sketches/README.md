@@ -4,7 +4,7 @@ Work in progress.
 
 ## App Mockup
 
-<img src="https://github.com/ArtDecenter/design/blob/master/mockups-sketches/ad-app-mockup.png" width="full">
+<img src="https://github.com/ArtDecenter/design/blob/master/mockups-sketches/ad-app-mockup.png" width="80%" position=center>
 
 ## Banner
 
