@@ -10,8 +10,10 @@ Work in progress.
 
 <img src="https://github.com/ArtDecenter/design/blob/master/mockups-sketches/ad-riso-sketch.png" width="full">
 
-## 3D Sketches
+## Diagram
 
-<img src="https://github.com/ArtDecenter/design/blob/master/mockups-sketches/objects-3d-grain.png" width="full">
+<img src="https://github.com/ArtDecenter/design/blob/master/mockups-sketches/artdecenter-flow-overview.png" width="full">
 
-<img src="https://github.com/ArtDecenter/design/blob/master/mockups-sketches/object-3d-grain.png" width="full">
+<img src="https://github.com/ArtDecenter/design/blob/master/mockups-sketches/artdecenter-usecase-ex1.png" width="full">
+
+<img src="https://github.com/ArtDecenter/design/blob/master/mockups-sketches/artdecenter-usecase-ex2.png" width="full">
