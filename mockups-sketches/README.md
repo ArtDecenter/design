@@ -4,8 +4,8 @@ Work in progress.
 
 ## App Mockup
 
-<img src="https://github.com/ArtDecenter/design/blob/master/mockups-sketches/ad-app-mockup.png" width="80%" position=center>
+<img src="https://github.com/ArtDecenter/design/blob/master/mockups-sketches/ad-app-mockup.png" width="60%" position='center'>
 
-## Banner
+## Card Design Mockup
 
 <img src="https://github.com/ArtDecenter/design/blob/master/mockups-sketches/ad-riso-sketch.png" width="full">
