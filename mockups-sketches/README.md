@@ -4,7 +4,9 @@ Work in progress.
 
 ## App Mockup
 
+<p align="center">
 <img src="https://github.com/ArtDecenter/design/blob/master/mockups-sketches/ad-app-mockup.png" width="70%" align="center" >
+</p>
 
 ## Card Design Mockup
 
